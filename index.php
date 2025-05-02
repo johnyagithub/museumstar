@@ -16,147 +16,141 @@
   <!-- begin #content -->
   <div id="content" class="content">
 
-    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img class="d-block w-100" src="https://placehold.co/600x400" alt="First slide">
+    <section class="container-fluid box-banner p-0">
+      <div class="owl-carousel">
+
+        <div class="item">
+          <img src="https://placehold.co/1500x600">
         </div>
-        <div class="carousel-item">
-          <img class="d-block w-100" src="https://placehold.co/600x400" alt="Second slide">
+        <div class="item">
+          <img src="https://placehold.co/1500x600">
         </div>
-        <div class="carousel-item">
-          <img class="d-block w-100" src="https://placehold.co/600x400" alt="Third slide">
+        <div class="item">
+          <img src="https://placehold.co/1500x600">
         </div>
+
       </div>
-      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div>
+    </section>
 
     <section class="box-list">
       <div class="container">
         <div class="row mb-3">
 
           <div class="col-lg-4 col-sm-6 p-3">
-                <a href="#" class="text-dark">
-            <div class="card h-100">
-              <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-              <div class="card-body">
+            <a href="#" class="text-dark">
+              <div class="card h-100">
+                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                <div class="card-body">
                   <h5 class="card-title text-line2">Card title</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
               </div>
-              <div class="card-footer">
-              <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-            </div>
-            </div>
             </a>
           </div>
           <div class="col-lg-4 col-sm-6 p-3">
-                <a href="#" class="text-dark">
-            <div class="card h-100">
-              <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-              <div class="card-body">
+            <a href="#" class="text-dark">
+              <div class="card h-100">
+                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                <div class="card-body">
                   <h5 class="card-title text-line2">Card title</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
               </div>
-              <div class="card-footer">
-              <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-            </div>
-            </div>
             </a>
           </div>
           <div class="col-lg-4 col-sm-6 p-3">
-                <a href="#" class="text-dark">
-            <div class="card h-100">
-              <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-              <div class="card-body">
+            <a href="#" class="text-dark">
+              <div class="card h-100">
+                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                <div class="card-body">
                   <h5 class="card-title text-line2">Card title</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
               </div>
-              <div class="card-footer">
-              <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-            </div>
-            </div>
             </a>
           </div>
           <div class="col-lg-4 col-sm-6 p-3">
-                <a href="#" class="text-dark">
-            <div class="card h-100">
-              <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-              <div class="card-body">
+            <a href="#" class="text-dark">
+              <div class="card h-100">
+                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                <div class="card-body">
                   <h5 class="card-title text-line2">Card title</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
               </div>
-              <div class="card-footer">
-              <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-            </div>
-            </div>
             </a>
           </div>
           <div class="col-lg-4 col-sm-6 p-3">
-                <a href="#" class="text-dark">
-            <div class="card h-100">
-              <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-              <div class="card-body">
+            <a href="#" class="text-dark">
+              <div class="card h-100">
+                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                <div class="card-body">
                   <h5 class="card-title text-line2">Card title</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
               </div>
-              <div class="card-footer">
-              <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-            </div>
-            </div>
             </a>
           </div>
           <div class="col-lg-4 col-sm-6 p-3">
-                <a href="#" class="text-dark">
-            <div class="card h-100">
-              <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-              <div class="card-body">
+            <a href="#" class="text-dark">
+              <div class="card h-100">
+                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                <div class="card-body">
                   <h5 class="card-title text-line2">Card title</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
               </div>
-              <div class="card-footer">
-              <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-            </div>
-            </div>
             </a>
           </div>
           <div class="col-lg-4 col-sm-6 p-3">
-                <a href="#" class="text-dark">
-            <div class="card h-100">
-              <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-              <div class="card-body">
+            <a href="#" class="text-dark">
+              <div class="card h-100">
+                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                <div class="card-body">
                   <h5 class="card-title text-line2">Card title</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
               </div>
-              <div class="card-footer">
-              <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-            </div>
-            </div>
             </a>
           </div>
           <div class="col-lg-4 col-sm-6 p-3">
-                <a href="#" class="text-dark">
-            <div class="card h-100">
-              <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-              <div class="card-body">
+            <a href="#" class="text-dark">
+              <div class="card h-100">
+                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                <div class="card-body">
                   <h5 class="card-title text-line2">Card title</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
               </div>
-              <div class="card-footer">
-              <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-            </div>
-            </div>
             </a>
           </div>
           <div class="col-lg-4 col-sm-6 p-3">
-                <a href="#" class="text-dark">
-            <div class="card h-100">
-              <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-              <div class="card-body">
+            <a href="#" class="text-dark">
+              <div class="card h-100">
+                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                <div class="card-body">
                   <h5 class="card-title text-line2">Card title</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
               </div>
-              <div class="card-footer">
-              <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-            </div>
-            </div>
             </a>
           </div>
 
@@ -164,7 +158,8 @@
         <nav aria-label="Page navigation example">
           <ul class="pagination justify-content-end">
             <li class="page-item disabled">
-              <a class="page-link" href="#" tabindex="-1"><</a>
+              <a class="page-link" href="#" tabindex="-1">
+                << /a>
             </li>
             <li class="page-item"><a class="page-link" href="#">1</a></li>
             <li class="page-item"><a class="page-link" href="#">2</a></li>

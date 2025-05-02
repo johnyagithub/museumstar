@@ -59,6 +59,82 @@ img {
 .text-line5 {
   -webkit-line-clamp: 5;
 }
+.owl-nav {
+  position: absolute;
+  top: 50%;
+  left: 0px;
+  width: 100%;
+  height: 0px;
+  transform: translateY(-50%);
+}
+  .owl-nav button {
+		display: flex;
+		align-items: center;
+		transform: translateY(-50%);
+		position: absolute;
+		transition: opacity .5s;
+		opacity: 0.4;
+		background: transparent;
+		color: #fff;
+		padding: 7px;
+		border: 1px solid #fff;
+		border-radius: 50%;
+  }
+    .owl-nav button.disabled {
+      opacity: 0;
+    }
+    .owl-nav button:not(.disabled):hover {
+      opacity: 1;
+    }
+
+  .owl-prev {
+    float: left;
+    left: 20px
+  }
+  .owl-next {
+    float: right;
+    right: 20px;
+  }
+    .owl-nav img {
+      display: block;
+      width: 40px;
+      height: 40px;
+      padding: 8px 3px 8px 8px;
+      filter: grayscale(1);
+      object-fit: contain;
+      transition: .5s;
+      box-sizing: border-box;
+      background-color: rgba(0, 0, 0, 0.4);
+      border-radius: 50%;
+    }
+    .owl-nav .owl-prev img {
+      transform: rotate(180deg);
+    }
+    .owl-nav .owl-next img {
+      margin-left: auto;
+    }
+
+.owl-dots {
+	margin: 5px auto;
+	position: absolute;
+	bottom: 0px;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+	.owl-dot {
+		margin: 2px 5px;
+		border-radius: 4px;
+		background-color: #C1C2C2;
+		transition: .5s;
+		border: 0px;
+		padding: 5px;
+		transition: .5s;
+		width: 8px;
+	}
+	.owl-dot.active {
+		background-color: #797A7A;
+		width: 32px;
+	}
 
 header {
   position: sticky;
