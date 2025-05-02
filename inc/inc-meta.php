@@ -17,3 +17,5 @@
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <!-- owl.carousel -->
 <link rel="stylesheet" type="text/css" href="./plugins/owlcarousel/owl.carousel.min.css">
+<!-- Animate on scroll -->
+<link rel="stylesheet" type="text/css" href="plugins/aos/aos.css" />

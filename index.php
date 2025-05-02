@@ -20,13 +20,16 @@
       <div class="owl-carousel">
 
         <div class="item">
-          <img src="https://placehold.co/1500x600">
+          <img src="./public/images/banner.jpg" alt="">
         </div>
         <div class="item">
-          <img src="https://placehold.co/1500x600">
+          <img src="./public/images/banner.jpg" alt="">
         </div>
         <div class="item">
-          <img src="https://placehold.co/1500x600">
+          <img src="./public/images/banner.jpg" alt="">
+        </div>
+        <div class="item">
+          <img src="./public/images/banner.jpg" alt="">
         </div>
 
       </div>
@@ -34,9 +37,9 @@
 
     <section class="box-list">
       <div class="container">
-        <div class="row mb-3">
+        <div class="row p-3">
 
-          <div class="col-lg-4 col-sm-6 p-3">
+          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
             <a href="#" class="text-dark">
               <div class="card h-100">
                 <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
@@ -49,7 +52,7 @@
               </div>
             </a>
           </div>
-          <div class="col-lg-4 col-sm-6 p-3">
+          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
             <a href="#" class="text-dark">
               <div class="card h-100">
                 <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
@@ -62,7 +65,7 @@
               </div>
             </a>
           </div>
-          <div class="col-lg-4 col-sm-6 p-3">
+          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
             <a href="#" class="text-dark">
               <div class="card h-100">
                 <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
@@ -75,7 +78,7 @@
               </div>
             </a>
           </div>
-          <div class="col-lg-4 col-sm-6 p-3">
+          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
             <a href="#" class="text-dark">
               <div class="card h-100">
                 <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
@@ -88,7 +91,7 @@
               </div>
             </a>
           </div>
-          <div class="col-lg-4 col-sm-6 p-3">
+          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
             <a href="#" class="text-dark">
               <div class="card h-100">
                 <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
@@ -101,7 +104,7 @@
               </div>
             </a>
           </div>
-          <div class="col-lg-4 col-sm-6 p-3">
+          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
             <a href="#" class="text-dark">
               <div class="card h-100">
                 <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
@@ -114,7 +117,7 @@
               </div>
             </a>
           </div>
-          <div class="col-lg-4 col-sm-6 p-3">
+          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
             <a href="#" class="text-dark">
               <div class="card h-100">
                 <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
@@ -127,7 +130,7 @@
               </div>
             </a>
           </div>
-          <div class="col-lg-4 col-sm-6 p-3">
+          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
             <a href="#" class="text-dark">
               <div class="card h-100">
                 <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
@@ -140,7 +143,7 @@
               </div>
             </a>
           </div>
-          <div class="col-lg-4 col-sm-6 p-3">
+          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
             <a href="#" class="text-dark">
               <div class="card h-100">
                 <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
@@ -155,20 +158,6 @@
           </div>
 
         </div>
-        <nav aria-label="Page navigation example">
-          <ul class="pagination justify-content-end">
-            <li class="page-item disabled">
-              <a class="page-link" href="#" tabindex="-1">
-                << /a>
-            </li>
-            <li class="page-item"><a class="page-link" href="#">1</a></li>
-            <li class="page-item"><a class="page-link" href="#">2</a></li>
-            <li class="page-item"><a class="page-link" href="#">3</a></li>
-            <li class="page-item">
-              <a class="page-link" href="#">></a>
-            </li>
-          </ul>
-        </nav>
       </div>
     </section>
 

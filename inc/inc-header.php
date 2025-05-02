@@ -1,6 +1,6 @@
 <header>
   <nav class="navbar navbar-expand-md">
-    <div class="container">
+    <div class="container-fluid">
       <a class="navbar-brand py-0" href="index.php">
         <img src="./public/images/logo.png" class="img-logo" alt="">
       </a>
@@ -19,8 +19,8 @@
           <li class="nav-item">
             <a class="nav-link" href="information.php">ข้อมูลโครงการ</a>
           </li>
-          <li class="nav-item">
-            <a class="btn btn-outline-primary" href="https://www.museumthailand.com/">Museum thailand</a>
+          <li class="border-left">
+            <a class="btn btn-outline-light" href="https://www.museumthailand.com/">Museum thailand</a>
           </li>
         </ul>
       </div>

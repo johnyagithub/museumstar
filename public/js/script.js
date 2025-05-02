@@ -1,6 +1,12 @@
 $(function () {
 
-  sliderBanner();
+	sliderBanner();
+
+	AOS.init({
+		duration: 500,
+		easing: 'ease-in-sine',
+		once: true
+	});
 
 });
 
@@ -9,7 +15,7 @@ let sliderBanner = () => {
 		loop: true,
 		margin: 0,
 		nav: true,
-    items: 1,
+		items: 1,
 		dots: true,
 		lazyLoad: true,
 		navText: ["<span class='material-icons'>arrow_back_ios_new</span>", "<span class='material-icons'>arrow_forward_ios</span>"],
