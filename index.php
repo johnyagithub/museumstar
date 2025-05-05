@@ -37,121 +37,21 @@
 
     <section class="box-list">
       <div class="container">
-        <div class="row p-3">
+        <div class="row p-sm-3">
 
-          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
+          <div class="col-lg-4 col-sm-6 p-3" data-aos="fade-up">
             <a href="#" class="text-dark">
               <div class="card h-100">
                 <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
                 <div class="card-body">
+                  <div class="b--view">
+                    <div class="--map">เจริญกรุง - ตลาดน้อย</div>
+                    <div class="--view">300</div>
+                  </div>
                   <h5 class="card-title text-line2">Card title</h5>
                 </div>
                 <div class="card-footer">
-                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
-            <a href="#" class="text-dark">
-              <div class="card h-100">
-                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-                <div class="card-body">
-                  <h5 class="card-title text-line2">Card title</h5>
-                </div>
-                <div class="card-footer">
-                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
-            <a href="#" class="text-dark">
-              <div class="card h-100">
-                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-                <div class="card-body">
-                  <h5 class="card-title text-line2">Card title</h5>
-                </div>
-                <div class="card-footer">
-                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
-            <a href="#" class="text-dark">
-              <div class="card h-100">
-                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-                <div class="card-body">
-                  <h5 class="card-title text-line2">Card title</h5>
-                </div>
-                <div class="card-footer">
-                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
-            <a href="#" class="text-dark">
-              <div class="card h-100">
-                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-                <div class="card-body">
-                  <h5 class="card-title text-line2">Card title</h5>
-                </div>
-                <div class="card-footer">
-                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
-            <a href="#" class="text-dark">
-              <div class="card h-100">
-                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-                <div class="card-body">
-                  <h5 class="card-title text-line2">Card title</h5>
-                </div>
-                <div class="card-footer">
-                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
-            <a href="#" class="text-dark">
-              <div class="card h-100">
-                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-                <div class="card-body">
-                  <h5 class="card-title text-line2">Card title</h5>
-                </div>
-                <div class="card-footer">
-                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
-            <a href="#" class="text-dark">
-              <div class="card h-100">
-                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-                <div class="card-body">
-                  <h5 class="card-title text-line2">Card title</h5>
-                </div>
-                <div class="card-footer">
-                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6 p-3"  data-aos="fade-up">
-            <a href="#" class="text-dark">
-              <div class="card h-100">
-                <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
-                <div class="card-body">
-                  <h5 class="card-title text-line2">Card title</h5>
-                </div>
-                <div class="card-footer">
-                  <p class="m-0 text-secondary text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                  <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
                 </div>
               </div>
             </a>
