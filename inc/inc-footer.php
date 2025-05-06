@@ -21,8 +21,15 @@
 <footer>
   <div class="container py-4">
     <b>จัดทำโดย</b>
+    <img src="./public/images/logo-museum-siam.png" alt="">
     <hr style="max-width: 270px;">
     <b>ติดตามช่องทางเพิ่มเติม</b>
+    <div class="d-flex align-content-center justify-content-center">
+      <img src="./public/images/logo-museum-siam.png" alt="">
+      <img src="./public/images/logo-museum-siam.png" alt="">
+      <img src="./public/images/logo-museum-siam.png" alt="">
+      <img src="./public/images/logo-museum-siam.png" alt="">
+    </div>
   </div>
   <div class="footer-Copyright">
     <div class="container">
