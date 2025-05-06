@@ -15,9 +15,17 @@ body {
 	--hov-primary: #333 !important;
 	--border_radius: 10px;
 	--muted: #A3A4A4 !important;
+	--warning: #E35225 !important;
 }
 .text-muted {
   color: var(--muted) !important;
+}
+.text-warning {
+  color: var(--warning) !important;
+}
+.btn-warning {
+  background-color: var(--warning) !important;
+  color: #fff;
 }
 .container {
   max-width: 1600px;
@@ -317,6 +325,14 @@ section.box-list {
 			border: 0px;
       padding: 10px;
 		}
+
+.box-passport {
+  background-color: #AFDBD0;
+  padding: 20px;
+}
+  .box-passport p {
+    color: #797A7A;
+  }
 
 /* ---------------------------------------------------**** Tablet ****--------------------------------------------------- */
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
