@@ -37,6 +37,7 @@
 
     <section class="box-list">
       <div class="container">
+        
         <div class="row p-sm-3">
 
           <div class="col-lg-4 col-sm-6 px-3 pt-3" data-aos="fade-up">
