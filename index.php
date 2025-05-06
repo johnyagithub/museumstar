@@ -16,7 +16,7 @@
   <!-- begin #content -->
   <div id="content" class="content">
 
-    <section class="container-fluid box-banner p-0">
+    <section class="container-fluid box-banner p-0" data-aos="fade">
       <div class="owl-carousel">
 
         <div class="item">
@@ -39,10 +39,10 @@
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <h1>Museum star</h1>
+            <h1 data-aos="fade">Museum star</h1>
           </div>
           <div class="col-md">
-            <ul class="--tab">
+            <ul class="--tab" data-aos="fade">
               <li class="active">
                 <a href="#">ทั้งหมด</a>
               </li>
@@ -60,7 +60,7 @@
               </li>
             </ul>
           </div>
-          <a href="#" class="link-map">
+          <a href="#" class="link-map" data-aos="fade">
             <img src="./public/images/icon-map.png" alt="">
           </a>
         </div>
