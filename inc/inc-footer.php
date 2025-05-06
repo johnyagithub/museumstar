@@ -19,16 +19,24 @@
   </div>
 </div>
 <footer>
-  <div class="container py-4">
-    <b>จัดทำโดย</b>
+  <div class="container py-3">
+    <b class="d-block mb-2">จัดทำโดย</b>
     <img src="./public/images/logo-museum-siam.png" alt="">
-    <hr style="max-width: 270px;">
+    <hr class="my-2" style="max-width: 270px;">
     <b>ติดตามช่องทางเพิ่มเติม</b>
     <div class="d-flex align-content-center justify-content-center">
-      <img src="./public/images/logo-museum-siam.png" alt="">
-      <img src="./public/images/logo-museum-siam.png" alt="">
-      <img src="./public/images/logo-museum-siam.png" alt="">
-      <img src="./public/images/logo-museum-siam.png" alt="">
+      <a href="#" target="_blank">
+        <img class="mt-1 mx-3 d-block" src="./public/images/social/l-facebook.png" alt="">
+      </a>
+      <a href="#" target="_blank">
+        <img class="mt-1 mx-3 d-block" src="./public/images/social/I-x.png" alt="">
+      </a>
+      <a href="#" target="_blank">
+        <img class="mt-1 mx-3 d-block" src="./public/images/social/I-line.png" alt="">
+      </a>
+      <a href="#" target="_blank">
+        <img class="mt-1 mx-3 d-block" src="./public/images/social/I-ig.png" alt="">
+      </a>
     </div>
   </div>
   <div class="footer-Copyright">
