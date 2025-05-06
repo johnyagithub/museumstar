@@ -36,10 +36,10 @@
     </section>
 
     <section class="box-list py-5">
-      <div class="container">
+      <div class="container" style="max-width: 1900px;">
         <div class="row">
           <div class="col-12">
-            <h1 data-aos="fade">Museum star</h1>
+            <h1 class="text-uppercase font-weight-light" data-aos="fade">Museum star</h1>
           </div>
           <div class="col-md">
             <ul class="--tab" data-aos="fade">
@@ -60,10 +60,12 @@
               </li>
             </ul>
           </div>
-          <a href="#" class="link-map" data-aos="fade">
+          <a href="map.php" class="link-map" data-aos="fade">
             <img src="./public/images/icon-map.png" alt="">
           </a>
         </div>
+      </div>
+      <div class="container">
         <div class="row p-sm-3">
 
           <div class="col-lg-4 col-sm-6 px-3 pt-3" data-aos="fade-up">
@@ -75,7 +77,7 @@
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
                     <div class="--view">300</div>
                   </div>
-                  <h5 class="card-title text-line2">Card title</h5>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
                 </div>
                 <div class="card-footer">
                   <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
@@ -92,7 +94,7 @@
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
                     <div class="--view">300</div>
                   </div>
-                  <h5 class="card-title text-line2">Card title</h5>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
                 </div>
                 <div class="card-footer">
                   <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
@@ -109,7 +111,7 @@
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
                     <div class="--view">300</div>
                   </div>
-                  <h5 class="card-title text-line2">Card title</h5>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
                 </div>
                 <div class="card-footer">
                   <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
@@ -126,7 +128,7 @@
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
                     <div class="--view">300</div>
                   </div>
-                  <h5 class="card-title text-line2">Card title</h5>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
                 </div>
                 <div class="card-footer">
                   <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
@@ -143,7 +145,7 @@
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
                     <div class="--view">300</div>
                   </div>
-                  <h5 class="card-title text-line2">Card title</h5>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
                 </div>
                 <div class="card-footer">
                   <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
@@ -160,7 +162,7 @@
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
                     <div class="--view">300</div>
                   </div>
-                  <h5 class="card-title text-line2">Card title</h5>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
                 </div>
                 <div class="card-footer">
                   <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
@@ -177,7 +179,7 @@
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
                     <div class="--view">300</div>
                   </div>
-                  <h5 class="card-title text-line2">Card title</h5>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
                 </div>
                 <div class="card-footer">
                   <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
@@ -194,7 +196,7 @@
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
                     <div class="--view">300</div>
                   </div>
-                  <h5 class="card-title text-line2">Card title</h5>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
                 </div>
                 <div class="card-footer">
                   <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
@@ -211,7 +213,7 @@
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
                     <div class="--view">300</div>
                   </div>
-                  <h5 class="card-title text-line2">Card title</h5>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
                 </div>
                 <div class="card-footer">
                   <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
@@ -228,7 +230,7 @@
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
                     <div class="--view">300</div>
                   </div>
-                  <h5 class="card-title text-line2">Card title</h5>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
                 </div>
                 <div class="card-footer">
                   <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
