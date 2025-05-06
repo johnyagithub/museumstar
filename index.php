@@ -35,9 +35,35 @@
       </div>
     </section>
 
-    <section class="box-list">
+    <section class="box-list py-5">
       <div class="container">
-        
+        <div class="row">
+          <div class="col-12">
+            <h1>Museum star</h1>
+          </div>
+          <div class="col-md">
+            <ul class="--tab">
+              <li class="active">
+                <a href="#">ทั้งหมด</a>
+              </li>
+              <li>
+                <a href="#">เจริญกรุง - ตลาดน้อย</a>
+              </li>
+              <li>
+                <a href="#">พระนคร</a>
+              </li>
+              <li>
+                <a href="#">ปากคลองตลาด</a>
+              </li>
+              <li>
+                <a href="#">เยาวราช</a>
+              </li>
+            </ul>
+          </div>
+          <a href="#" class="link-map">
+            <img src="./public/images/icon-map.png" alt="">
+          </a>
+        </div>
         <div class="row p-sm-3">
 
           <div class="col-lg-4 col-sm-6 px-3 pt-3" data-aos="fade-up">

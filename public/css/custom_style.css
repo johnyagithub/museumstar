@@ -14,11 +14,19 @@ body {
 	--primary: #203669 !important;
 	--hov-primary: #333 !important;
 	--border_radius: 10px;
-	--muted: #A3A4A4 !important;
 	--warning: #E35225 !important;
+	--grey-50: #EBEBEB !important;
+	--grey-100: #C1C2C2 !important;
+	--grey-200: #A3A4A4 !important;
+	--grey-300: #797A7A !important;
+	--grey-400: #5F6161 !important;
+	--grey-500: #373939 !important;
+	--grey-600: #323434 !important;
+	--grey-700: #272828 !important;
+	--grey-800: #1E1F1F !important;
 }
 .text-muted {
-  color: var(--muted) !important;
+  color: var(--grey-200) !important;
 }
 .text-warning {
   color: var(--warning) !important;
@@ -138,7 +146,7 @@ img {
 	.owl-dot {
 		margin: 2px 5px;
 		border-radius: 4px;
-		background-color: #C1C2C2;
+		background-color: var(--grey-100);
 		transition: .5s;
 		border: 0px;
 		padding: 5px;
@@ -146,7 +154,7 @@ img {
 		width: 8px;
 	}
 	.owl-dot.active {
-		background-color: #797A7A;
+		background-color: var(--grey-300);
 		width: 32px;
 	}
 
@@ -181,7 +189,7 @@ header {
       right: 0;
       bottom: 0;
       left: 0;
-      background: #1E1F1F;
+      background: var(--grey-800);
       transition: transform ease .5s;
       content: '';
       display: block;
@@ -200,8 +208,8 @@ header {
       right: 0;
       bottom: 0;
       left: 0;
-      background: #1E1F1F;
-      box-shadow: 0 8px 0 #1E1F1F, 0 -8px 0 #1E1F1F;
+      background: var(--grey-800);
+      box-shadow: 0 8px 0 var(--grey-800), 0 -8px 0 var(--grey-800);
       transition: transform ease .5s,box-shadow .5s ease .5s;
       content: '';
       display: block;
@@ -223,7 +231,7 @@ div#navbarMain {
       position: relative;
     }
     div#navbarMain ul.navbar-nav li.border-left {
-      border-color: var(--muted);
+      border-color: var(--grey-200);
       padding-left: 30px;
       margin-left: 20px;
     }
@@ -237,7 +245,7 @@ div#navbarMain {
       bottom: 0px;
     }
       div#navbarMain ul.navbar-nav a.nav-link {
-        color: #797A7A;
+        color: var(--grey-300);
         padding: 5px 22px;
         transition: .5s;
       }
@@ -249,8 +257,8 @@ div#navbarMain {
       }
       div#navbarMain ul.navbar-nav a.btn {
         border-radius: 20px;
-        border-color: #1E1F1F;
-        color: #272828;
+        border-color: var(--grey-800);
+        color: var(--grey-700);
         padding-left: 30px;
         padding-right: 30px;
       }
@@ -265,12 +273,85 @@ section.box-banner {
 section.box-list {
 
 }
+section.box-list h1 {
+  font-size: 56px;
+  text-align: center;
+}
+.box-list .--tab {
+  list-style: none;
+  display: flex;
+  flex-flow: wrap;
+  padding-left: 0;
+  margin: 4px 20px;
+}
+  .box-list .--tab li {
+    margin: 10px 0px;
+  }
+    .box-list .--tab a {
+      position: relative;
+      padding: 0px 26px;
+      color: var(--grey-100);
+      border-left: 1px solid var(--grey-200);
+      transition: .5s;
+    }
+    .box-list .--tab li:first-child a {
+      border: none;
+      padding-left: 0px;
+    }
+    .box-list .--tab li.active a ,
+    .box-list .--tab li:hover a {
+      color: var(--grey-600);
+    }
+    .box-list .--tab a::before {
+      content: "";
+      background: url(../images/icon-Union.svg) no-repeat center center;
+      background-size: 20px auto;
+      width: 40px;
+      aspect-ratio: 1;
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 12px;
+      border: 1px solid var(--grey-50);
+      border-radius: 50%;
+      transition: .5s;
+    }
+    .box-list .--tab li:hover a::before ,
+    .box-list .--tab li.active a::before {
+      filter: brightness(3);
+      background-color: #091125 !important;
+      box-shadow: 0 0 3px #0019FF;
+      border-color: var(--grey-50);
+    }
+
+  section.box-list .link-map {
+    width: 40px;
+    aspect-ratio: 1;
+    border: 1px solid var(--grey-200);
+    border-radius: 50%;
+    transition: .5s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 14px 30px auto 14px;
+  }
+  section.box-list .link-map:hover {
+    filter: brightness(3);
+    background-color: #091125 !important;
+    box-shadow: 0 0 3px #0019FF, 0 0 8px #203669;
+    border-color: var(--grey-50);
+  }
+    section.box-list .link-map img {
+      display: block;
+    }
+    
 	section.box-list .card {
 		border: 0px;
     transition: .5s;
+    border: 1px solid transparent;
 	}
 	section.box-list .card:hover {
     background: #fbfbfb;
+    border-color: var(--grey-50);
 	}
 		.box-list .card .card-body {
       padding: 10px;
@@ -285,11 +366,11 @@ section.box-list {
           align-items: center;
           margin-top: 10px;
           margin-bottom: 20px;
-          color: var(--muted);
+          color: var(--grey-200);
           font-size: 13px;
         }
           .box-list .card .b--view .--location {
-            border: 1px solid #A3A4A4;
+            border: 1px solid var(--grey-200);
             border-radius: 20px;
             padding: 0px 12px 4px 8px;
             display: inline-block;
@@ -348,21 +429,35 @@ section.box-list {
       margin: 0px;
     }
     .box-passport p {
-      color: #797A7A;
+      color: var(--grey-300);
     }
 
 footer {
   border-top: 8px solid #333333;
-  background-color: var(--muted);
-  color: #5F6161;
+  background-color: var(--grey-200);
+  color: var(--grey-400);
   text-align: center;
   font-size: 13px;
 }
   .footer-Copyright {
-    background-color: #1E1F1F;
-    color: #797A7A;
+    background-color: var(--grey-800);
+    color: var(--grey-300);
     text-align: center;
   }
+/* ---------------------------------------------------**** Tablet ****--------------------------------------------------- */
+@media only screen and (max-width: 1024px) {
+  section.box-list .link-map {
+    position: absolute;
+    right: 0px;
+    margin-top: 18px;
+  }
+  .box-list .--tab a {
+    padding: 0px 10px;
+  }
+  .box-list .--tab {
+    margin: 0px;
+  }
+}
 
 /* ---------------------------------------------------**** Tablet ****--------------------------------------------------- */
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
@@ -447,7 +542,7 @@ footer {
     background: rgb(32 54 105 / 11%);
   }
   div#navbarMain ul.navbar-nav a.nav-link {
-    color: #797A7A;
+    color: var(--grey-300);
     padding: 20px 22px;
   }
   .box-passport .img-passport {
