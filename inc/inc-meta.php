@@ -13,7 +13,7 @@
 <link rel="stylesheet" type="text/css" href="./public/css/custom_style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@200;300&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <!-- owl.carousel -->
 <link rel="stylesheet" type="text/css" href="./plugins/owlcarousel/owl.carousel.min.css">

@@ -19,7 +19,7 @@
   </div>
 </div>
 <footer>
-  <div class="container py-3">
+  <div class="container-lg py-3">
     <b class="d-block mb-2">จัดทำโดย</b>
     <img src="./public/images/logo-museum-siam.png" alt="">
     <hr class="my-2" style="max-width: 270px;">

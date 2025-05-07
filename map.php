@@ -54,9 +54,11 @@
           <div class="--list-map col-lg-6 m-0 row p-sm-3">
 
             <div class="col-md-6 px-3 pt-3" data-aos="fade-up">
-              <a href="#" class="text-dark">
+              <a href="detail.php" class="text-dark">
                 <div class="card h-100">
-                  <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                  <div class="card-img-top">
+                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                  </div>
                   <div class="card-body">
                     <div class="b--view">
                       <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -71,9 +73,11 @@
               </a>
             </div>
             <div class="col-md-6 px-3 pt-3" data-aos="fade-up">
-              <a href="#" class="text-dark">
+              <a href="detail.php" class="text-dark">
                 <div class="card h-100">
-                  <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                  <div class="card-img-top">
+                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                  </div>
                   <div class="card-body">
                     <div class="b--view">
                       <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -88,9 +92,11 @@
               </a>
             </div>
             <div class="col-md-6 px-3 pt-3" data-aos="fade-up">
-              <a href="#" class="text-dark">
+              <a href="detail.php" class="text-dark">
                 <div class="card h-100">
-                  <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                  <div class="card-img-top">
+                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                  </div>
                   <div class="card-body">
                     <div class="b--view">
                       <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -105,9 +111,11 @@
               </a>
             </div>
             <div class="col-md-6 px-3 pt-3" data-aos="fade-up">
-              <a href="#" class="text-dark">
+              <a href="detail.php" class="text-dark">
                 <div class="card h-100">
-                  <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                  <div class="card-img-top">
+                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                  </div>
                   <div class="card-body">
                     <div class="b--view">
                       <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -122,9 +130,11 @@
               </a>
             </div>
             <div class="col-md-6 px-3 pt-3" data-aos="fade-up">
-              <a href="#" class="text-dark">
+              <a href="detail.php" class="text-dark">
                 <div class="card h-100">
-                  <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                  <div class="card-img-top">
+                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                  </div>
                   <div class="card-body">
                     <div class="b--view">
                       <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -139,9 +149,11 @@
               </a>
             </div>
             <div class="col-md-6 px-3 pt-3" data-aos="fade-up">
-              <a href="#" class="text-dark">
+              <a href="detail.php" class="text-dark">
                 <div class="card h-100">
-                  <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                  <div class="card-img-top">
+                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                  </div>
                   <div class="card-body">
                     <div class="b--view">
                       <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -156,9 +168,11 @@
               </a>
             </div>
             <div class="col-md-6 px-3 pt-3" data-aos="fade-up">
-              <a href="#" class="text-dark">
+              <a href="detail.php" class="text-dark">
                 <div class="card h-100">
-                  <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                  <div class="card-img-top">
+                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                  </div>
                   <div class="card-body">
                     <div class="b--view">
                       <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -173,9 +187,11 @@
               </a>
             </div>
             <div class="col-md-6 px-3 pt-3" data-aos="fade-up">
-              <a href="#" class="text-dark">
+              <a href="detail.php" class="text-dark">
                 <div class="card h-100">
-                  <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                  <div class="card-img-top">
+                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                  </div>
                   <div class="card-body">
                     <div class="b--view">
                       <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -190,9 +206,11 @@
               </a>
             </div>
             <div class="col-md-6 px-3 pt-3" data-aos="fade-up">
-              <a href="#" class="text-dark">
+              <a href="detail.php" class="text-dark">
                 <div class="card h-100">
-                  <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                  <div class="card-img-top">
+                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                  </div>
                   <div class="card-body">
                     <div class="b--view">
                       <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -207,9 +225,11 @@
               </a>
             </div>
             <div class="col-md-6 px-3 pt-3" data-aos="fade-up">
-              <a href="#" class="text-dark">
+              <a href="detail.php" class="text-dark">
                 <div class="card h-100">
-                  <img class="card-img-top" src="https://placehold.co/500x400" alt="Card image cap">
+                  <div class="card-img-top">
+                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                  </div>
                   <div class="card-body">
                     <div class="b--view">
                       <div class="--location">เจริญกรุง - ตลาดน้อย</div>
