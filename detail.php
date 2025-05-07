@@ -56,11 +56,11 @@
           </div>
           <div class="col-lg-4 offset-xl-1">
             <div class="b--detail-r">
-              <ul>
-                <li>เลขที่ 323 ถ.วรเดช ตำบลหน้าเมือง อำเภอเมืองราชบุรี จังหวัดราชบุรี 70000</li>
-                <li>เปิดให้บริการ 10.00 - 18.00 น.</li>
-                <li><a href="tel:0942979617" class="text-muted">094 297 9617</a></li>
-                <li><a href="https://www.facebook.com/THT.dKunst/" target="_blank" class="text-muted">https://www.facebook.com/THT.dKunst/</a></li>
+              <ul class="--list-icon">
+                <li><img src="./public/images/I-Location.svg"> เลขที่ 323 ถ.วรเดช ตำบลหน้าเมือง อำเภอเมืองราชบุรี จังหวัดราชบุรี 70000</li>
+                <li><img src="./public/images/I-time.svg"> เปิดให้บริการ 10.00 - 18.00 น.</li>
+                <li><img src="./public/images/I-Phone.svg"> <a href="tel:0942979617" class="text-muted">094 297 9617</a></li>
+                <li><img src="./public/images/I-Web.svg"> <a href="https://www.facebook.com/THT.dKunst/" target="_blank" class="text-muted">https://www.facebook.com/THT.dKunst/</a></li>
               </ul>
               <div class="d-flex align-items-center">
                 <img src="./public/images/img-qr.jpg" class="img" alt="">

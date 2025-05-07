@@ -468,6 +468,35 @@ section.box-list h1 {
     margin-left: 4px;
   }
 
+ul.--list-icon {
+  list-style: none;
+  padding-left: 33px;
+}
+  ul.--list-icon li {
+    padding: 8px 0px;
+    position: relative;
+  }
+    ul.--list-icon li:has(img)::before ,
+    ul.--list-icon li img {
+      position: absolute;
+      left: -33px;
+      top: 10px;
+      aspect-ratio: 1;
+      object-fit: contain;
+      width: 12px;
+    }
+    ul.--list-icon li:has(img)::before {
+      content: "";
+      border: 1px solid var(--grey-200);
+      background-color: #fff;
+      border-radius: 50%;
+      padding: 5px;
+      box-sizing: content-box;
+    }
+    ul.--list-icon li img {
+      margin: 6px;
+    }
+
 .b--detail {
   color: var(--grey-200);
   margin: 30px 0px;
@@ -482,10 +511,14 @@ section.box-list h1 {
   position: sticky;
   top: 136px;
   word-break: break-word;
+  font-style: 14px;
 }
-  .b--detail-r .img{
-    border: 15px solid #D9D9D9;
+  .b--detail-r .img {
+    border: 10px solid #D9D9D9;
     border-radius: var(--border_radius);
+  }
+  .b--detail-r .img+p {
+    border-bottom: 1px dotted var(--grey-200);
   }
 
 .box-passport {
