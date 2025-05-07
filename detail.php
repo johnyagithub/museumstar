@@ -62,6 +62,10 @@
                 <li><a href="tel:0942979617" class="text-muted">094 297 9617</a></li>
                 <li><a href="https://www.facebook.com/THT.dKunst/" target="_blank" class="text-muted">https://www.facebook.com/THT.dKunst/</a></li>
               </ul>
+              <div class="d-flex align-items-center">
+                <img src="./public/images/img-qr.jpg" class="img" alt="">
+                <p class="m-3">เก็บคะแนน</p>
+              </div>
             </div>
           </div>
         </div>

@@ -476,13 +476,17 @@ section.box-list h1 {
 .b--detail-r {
   color: var(--grey-200);
   box-shadow: 0 0 12px rgb(0 0 0 / 7%);
-  padding: 13px 25px;
+  padding: 30px 25px;
   border-radius: var(--border_radius);
   margin-top: 13px;
   position: sticky;
   top: 136px;
   word-break: break-word;
 }
+  .b--detail-r .img{
+    border: 15px solid #D9D9D9;
+    border-radius: var(--border_radius);
+  }
 
 .box-passport {
   background-color: #AFDBD0;
