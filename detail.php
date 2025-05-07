@@ -55,7 +55,7 @@
             <a href="#" class="text-dark"><u>ดูเนื้อหาเพิ่มเติม</u> <img src="./public/images/I-TrendingFlat.png"></a>
           </div>
           <div class="col-lg-4 offset-xl-1">
-            <div class="b--detail-r">
+            <div class="b--detail-r mt-5 mt-lg-0">
               <ul class="--list-icon">
                 <li><img src="./public/images/I-Location.svg"> เลขที่ 323 ถ.วรเดช ตำบลหน้าเมือง อำเภอเมืองราชบุรี จังหวัดราชบุรี 70000</li>
                 <li><img src="./public/images/I-time.svg"> เปิดให้บริการ 10.00 - 18.00 น.</li>

@@ -741,6 +741,9 @@ footer {
   section.box-banner:not(:has(.owl-carousel)) img {
     height: 183px;
   }
+  .box-breadcrumb {
+    top: 70px;
+  }
   /* แนวตั้ง */
   @media only screen and (orientation:portrait){
     .box-passport .b-passport {
