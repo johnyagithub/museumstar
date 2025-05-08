@@ -5,7 +5,7 @@ html {
 body {
 	font-family: 'Kanit', sans-serif !important;
 	font-weight: 100 !important;
-	font-size: 18px !important;
+	font-size: 16px !important;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -257,7 +257,7 @@ header {
 		}
 
 div#navbarMain {
-
+  font-size: 18px;
 }
   div#navbarMain ul.navbar-nav {
 
