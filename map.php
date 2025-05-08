@@ -49,6 +49,7 @@
             <div class="--map">
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10786.847311849602!2d100.46328934595672!3d13.777823136008914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29991fdf760c9%3A0x1633d9b3074c0486!2z4Liq4Lin4LiZ4LmA4LiJ4Lil4Li04Lih4Lie4Lij4Liw4LmA4LiB4Li14Lii4Lij4LiV4Li0IDgwIOC4nuC4o-C4o-C4qeC4siDguJ7guKPguLDguJrguLLguJfguKrguKHguYDguJTguYfguIjguJ7guKPguLDguYDguIjguYnguLLguK3guKLguLnguYjguKvguLHguKc!5e0!3m2!1sth!2sth!4v1746524862558!5m2!1sth!2sth"></iframe>
               <div class="box-popup active">
+                <span class="btn-close material-icons" onclick="$(this).closest('.box-popup').removeClass('active')">close</span>
                 <img src="https://placehold.co/500x400" alt="Card image cap">
                 <div class="p-2 w-100">
                   <h5 class="card-title text-line1">มิวเซียมสยาม</h5>

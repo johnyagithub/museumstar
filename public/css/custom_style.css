@@ -556,6 +556,7 @@ ul.--list-icon {
       width: 100%;
       height: calc(100vh - 120px);
       /* aspect-ratio: 673/670; */
+      border: 0px;
     }
     @media only screen and (min-width: 1367px) {
       .box-iframe-map .--iframe-map iframe {
@@ -615,12 +616,36 @@ ul.--list-icon {
     visibility: visible;
     opacity: 1;
   }
+    .--map .box-popup .btn-close {
+        position: absolute;
+        right: 6px;
+        top: 6px;
+        font-size: 20px;
+        width: 24px;
+        aspect-ratio: 1;
+        display: flex;
+        background: #fff;
+        border: 1px solid var(--grey-500);
+        border-radius: 4px;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        z-index: 2;
+    }
     .--map .box-popup img {
       aspect-ratio: 170/152;
       width: 170px;
       margin: 0px auto;
       display: block;
       max-width: 30%;
+      transition: .5s;
+    }
+    .--map .box-popup:hover img {
+      transform: scale(1.2);
+    }
+    .--map .box-popup img+div {
+      background-color: #fff;
+      z-index: 1;
     }
 
 footer {
