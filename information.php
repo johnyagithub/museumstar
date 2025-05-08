@@ -15,6 +15,15 @@
 
   <!-- begin #content -->
   <div id="content" class="content">
+    <section class="box-breadcrumb">
+      <div class="container-fluid">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="index.php"><span class="material-icons">home</span></a></li>
+          <li class="breadcrumb-item"><a href="index.php">museum Star</a></li>
+          <li class="breadcrumb-item active" aria-current="page">ข้อมูลโครงการ</li>
+        </ol>
+      </div>
+    </section>
 
     <section class="py-5">
       <div class="py-3 mb-4">
@@ -49,15 +58,22 @@
         </div>
       </div>
       <div class="py-3 mb-4">
-        <div class="container-lg">
+        <div class="container-lg px-0 px-sm-3">
           <h2 class="text-uppercase font-weight-light text-center mb-4" data-aos="fade-up">เกณฑ์การประเมิน</h2>
-          <img src="./public/images/img-information.jpg" class="d-block mx-auto" data-aos="fade-up" alt="">
+          <div class="table-responsive">
+            <img src="./public/images/img-information.jpg" class="d-block mx-auto" style="min-width: 700px;" data-aos="fade-up" alt="">
+          </div>
         </div>
       </div>
       <div class="py-3 mb-4">
-        <div class="container">
+        <div class="container-lg">
           <h2 class="text-uppercase font-weight-light text-center mb-4" data-aos="fade-up">รายชื่อคณะกรรมการ</h2>
           <p data-aos="fade-up">ผู้ร่วมคิดเกณฑ์การประเมิน และการคัดเลือกพิพิธภัณฑ์ Museum STAR</p>
+        </div>
+        <div class="container px-0 px-sm-3">
+          <div class="table-responsive">
+            <img src="./public/images/img-information2.jpg" class="d-block mx-auto" style="min-width: 1000px;" data-aos="fade-up" alt="">
+          </div>
         </div>
       </div>
     </section>

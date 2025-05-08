@@ -20,7 +20,7 @@
             <a class="nav-link" href="information.php">ข้อมูลโครงการ</a>
           </li>
           <li class="border-left">
-            <a class="btn btn-outline-light" href="https://www.museumthailand.com/">Museum thailand</a>
+            <a class="btn btn-outline-light" target="_blank" href="https://www.museumthailand.com/">Museum thailand</a>
           </li>
         </ul>
       </div>
