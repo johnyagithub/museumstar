@@ -72,7 +72,7 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image01.jpg" alt="">
                   </div>
                 <div class="card-body">
                   <div class="b--view">
@@ -91,7 +91,7 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image02.jpg" alt="">
                   </div>
                 <div class="card-body">
                   <div class="b--view">
@@ -110,7 +110,7 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image03.jpg" alt="">
                   </div>
                 <div class="card-body">
                   <div class="b--view">
@@ -129,7 +129,7 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image04.jpg" alt="">
                   </div>
                 <div class="card-body">
                   <div class="b--view">
@@ -148,7 +148,7 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image05.jpg" alt="">
                   </div>
                 <div class="card-body">
                   <div class="b--view">
@@ -167,7 +167,7 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image06.jpg" alt="">
                   </div>
                 <div class="card-body">
                   <div class="b--view">
@@ -186,7 +186,7 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image07.jpg" alt="">
                   </div>
                 <div class="card-body">
                   <div class="b--view">
@@ -205,7 +205,7 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image08.jpg" alt="">
                   </div>
                 <div class="card-body">
                   <div class="b--view">
@@ -224,7 +224,7 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image09.jpg" alt="">
                   </div>
                 <div class="card-body">
                   <div class="b--view">
@@ -243,7 +243,197 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image10.jpg" alt="">
+                  </div>
+                <div class="card-body">
+                  <div class="b--view">
+                    <div class="--location">เจริญกรุง - ตลาดน้อย</div>
+                    <div class="--view">300</div>
+                  </div>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6 px-3 pt-3" data-aos="fade-up">
+            <a href="detail.php" class="text-dark">
+              <div class="card h-100">
+                <div class="card-img-top">
+                    <img src="./public/images/list/image11.jpg" alt="">
+                  </div>
+                <div class="card-body">
+                  <div class="b--view">
+                    <div class="--location">เจริญกรุง - ตลาดน้อย</div>
+                    <div class="--view">300</div>
+                  </div>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6 px-3 pt-3" data-aos="fade-up">
+            <a href="detail.php" class="text-dark">
+              <div class="card h-100">
+                <div class="card-img-top">
+                    <img src="./public/images/list/image12.jpg" alt="">
+                  </div>
+                <div class="card-body">
+                  <div class="b--view">
+                    <div class="--location">เจริญกรุง - ตลาดน้อย</div>
+                    <div class="--view">300</div>
+                  </div>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6 px-3 pt-3" data-aos="fade-up">
+            <a href="detail.php" class="text-dark">
+              <div class="card h-100">
+                <div class="card-img-top">
+                    <img src="./public/images/list/image13.jpg" alt="">
+                  </div>
+                <div class="card-body">
+                  <div class="b--view">
+                    <div class="--location">เจริญกรุง - ตลาดน้อย</div>
+                    <div class="--view">300</div>
+                  </div>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6 px-3 pt-3" data-aos="fade-up">
+            <a href="detail.php" class="text-dark">
+              <div class="card h-100">
+                <div class="card-img-top">
+                    <img src="./public/images/list/image14.jpg" alt="">
+                  </div>
+                <div class="card-body">
+                  <div class="b--view">
+                    <div class="--location">เจริญกรุง - ตลาดน้อย</div>
+                    <div class="--view">300</div>
+                  </div>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6 px-3 pt-3" data-aos="fade-up">
+            <a href="detail.php" class="text-dark">
+              <div class="card h-100">
+                <div class="card-img-top">
+                    <img src="./public/images/list/image15.jpg" alt="">
+                  </div>
+                <div class="card-body">
+                  <div class="b--view">
+                    <div class="--location">เจริญกรุง - ตลาดน้อย</div>
+                    <div class="--view">300</div>
+                  </div>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6 px-3 pt-3" data-aos="fade-up">
+            <a href="detail.php" class="text-dark">
+              <div class="card h-100">
+                <div class="card-img-top">
+                    <img src="./public/images/list/image16.jpg" alt="">
+                  </div>
+                <div class="card-body">
+                  <div class="b--view">
+                    <div class="--location">เจริญกรุง - ตลาดน้อย</div>
+                    <div class="--view">300</div>
+                  </div>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6 px-3 pt-3" data-aos="fade-up">
+            <a href="detail.php" class="text-dark">
+              <div class="card h-100">
+                <div class="card-img-top">
+                    <img src="./public/images/list/image17.jpg" alt="">
+                  </div>
+                <div class="card-body">
+                  <div class="b--view">
+                    <div class="--location">เจริญกรุง - ตลาดน้อย</div>
+                    <div class="--view">300</div>
+                  </div>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6 px-3 pt-3" data-aos="fade-up">
+            <a href="detail.php" class="text-dark">
+              <div class="card h-100">
+                <div class="card-img-top">
+                    <img src="./public/images/list/image18.jpg" alt="">
+                  </div>
+                <div class="card-body">
+                  <div class="b--view">
+                    <div class="--location">เจริญกรุง - ตลาดน้อย</div>
+                    <div class="--view">300</div>
+                  </div>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6 px-3 pt-3" data-aos="fade-up">
+            <a href="detail.php" class="text-dark">
+              <div class="card h-100">
+                <div class="card-img-top">
+                    <img src="./public/images/list/image19.jpg" alt="">
+                  </div>
+                <div class="card-body">
+                  <div class="b--view">
+                    <div class="--location">เจริญกรุง - ตลาดน้อย</div>
+                    <div class="--view">300</div>
+                  </div>
+                  <h5 class="card-title text-line2">มิวเซียมสยาม</h5>
+                </div>
+                <div class="card-footer">
+                  <p class="m-0 text-muted text-line1">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6 px-3 pt-3" data-aos="fade-up">
+            <a href="detail.php" class="text-dark">
+              <div class="card h-100">
+                <div class="card-img-top">
+                    <img src="./public/images/list/image20.jpg" alt="">
                   </div>
                 <div class="card-body">
                   <div class="b--view">

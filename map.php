@@ -72,7 +72,7 @@
               <a href="detail.php" class="text-dark">
                 <div class="card h-100">
                   <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image01.jpg" alt="">
                   </div>
                   <div class="card-body">
                     <div class="b--view">
@@ -91,7 +91,7 @@
               <a href="detail.php" class="text-dark">
                 <div class="card h-100">
                   <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image02.jpg" alt="">
                   </div>
                   <div class="card-body">
                     <div class="b--view">
@@ -110,7 +110,7 @@
               <a href="detail.php" class="text-dark">
                 <div class="card h-100">
                   <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image03.jpg" alt="">
                   </div>
                   <div class="card-body">
                     <div class="b--view">
@@ -129,7 +129,7 @@
               <a href="detail.php" class="text-dark">
                 <div class="card h-100">
                   <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image04.jpg" alt="">
                   </div>
                   <div class="card-body">
                     <div class="b--view">
@@ -148,7 +148,7 @@
               <a href="detail.php" class="text-dark">
                 <div class="card h-100">
                   <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image05.jpg" alt="">
                   </div>
                   <div class="card-body">
                     <div class="b--view">
@@ -167,7 +167,7 @@
               <a href="detail.php" class="text-dark">
                 <div class="card h-100">
                   <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image06.jpg" alt="">
                   </div>
                   <div class="card-body">
                     <div class="b--view">
@@ -186,7 +186,7 @@
               <a href="detail.php" class="text-dark">
                 <div class="card h-100">
                   <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image07.jpg" alt="">
                   </div>
                   <div class="card-body">
                     <div class="b--view">
@@ -205,7 +205,7 @@
               <a href="detail.php" class="text-dark">
                 <div class="card h-100">
                   <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image08.jpg" alt="">
                   </div>
                   <div class="card-body">
                     <div class="b--view">
@@ -224,7 +224,7 @@
               <a href="detail.php" class="text-dark">
                 <div class="card h-100">
                   <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image09.jpg" alt="">
                   </div>
                   <div class="card-body">
                     <div class="b--view">
@@ -243,7 +243,7 @@
               <a href="detail.php" class="text-dark">
                 <div class="card h-100">
                   <div class="card-img-top">
-                    <img src="https://placehold.co/500x400" alt="Card image cap">
+                    <img src="./public/images/list/image10.jpg" alt="">
                   </div>
                   <div class="card-body">
                     <div class="b--view">
