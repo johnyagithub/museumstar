@@ -610,6 +610,7 @@ ul.--list-icon {
     max-width: 90%;
     visibility: hidden;
     opacity: 0;
+    box-shadow: 2px 2px 4px rgb(37 30 27 / 25%);
     transition: .5s;
   }
   .--map .box-popup.active {

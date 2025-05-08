@@ -52,7 +52,7 @@
                 <span class="btn-close material-icons" onclick="$(this).closest('.box-popup').removeClass('active')">close</span>
                 <img src="https://placehold.co/500x400" alt="Card image cap">
                 <div class="p-2 w-100">
-                  <h5 class="card-title text-line1">มิวเซียมสยาม</h5>
+                  <h5 class="card-title text-line1 pr-4">มิวเซียมสยาม</h5>
                   <p class="m-0 text-muted text-line1" style="font-size: 12px;">ประเภทพิพิธภัณฑ์ / ศิลปะ</p>
                   <div class="d-flex align-items-center mt-4">
                     <a href="#" class="btn btn-primary">โปรแกรมทั้งหมด</a>
