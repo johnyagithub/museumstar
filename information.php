@@ -51,6 +51,7 @@
       <div class="py-3 mb-4">
         <div class="container-lg">
           <h2 class="text-uppercase font-weight-light text-center mb-4" data-aos="fade-up">เกณฑ์การประเมิน</h2>
+          <img src="./public/images/img-information.jpg" class="d-block mx-auto" data-aos="fade-up" alt="">
         </div>
       </div>
       <div class="py-3 mb-4">
