@@ -549,6 +549,20 @@ ul.--list-icon {
 .box-iframe-map {
 
 }
+  .--iframe-map {
+
+  }
+    .box-iframe-map .--iframe-map iframe {
+      width: 100%;
+      height: calc(100vh - 120px);
+      /* aspect-ratio: 673/670; */
+    }
+    @media only screen and (min-width: 1367px) {
+      .box-iframe-map .--iframe-map iframe {
+        aspect-ratio: 860 / 827;
+      }
+    }
+
   .box-iframe-map button.a-link {
     width: 40px;
     aspect-ratio: 1;
@@ -567,20 +581,47 @@ ul.--list-icon {
     display: none;
     z-index: 999;
   }
-  .box-iframe-map .--iframe-map iframe {
-    width: 100%;
-    height: calc(100vh - 120px);
-    /* aspect-ratio: 673/670; */
-    border: 0px;
-    position: sticky;
-    top: 105px;
-    margin-top: 30px;
+
+.--map {
+  position: relative;
+  border: 0px;
+  position: sticky;
+  top: 105px;
+  margin-top: 30px;
+}
+  .--map:has(.box-popup.active) iframe {
+    pointer-events: none;
   }
-  @media only screen and (min-width: 1367px) {
-    .box-iframe-map .--iframe-map iframe {
-      aspect-ratio: 860 / 827;
+  .--map .box-popup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 100%;
+    width: 500px;
+    border-radius: var(--border_radius);
+    overflow: hidden;
+    background-color: #fff;
+    z-index: 99;
+    max-width: 90%;
+    visibility: hidden;
+    opacity: 0;
+    transition: .5s;
+  }
+  .--map .box-popup.active {
+    visibility: visible;
+    opacity: 1;
+  }
+    .--map .box-popup img {
+      aspect-ratio: 170/152;
+      width: 170px;
+      margin: 0px auto;
+      display: block;
+      max-width: 30%;
     }
-  }
 
 footer {
   border-top: 8px solid #333333;
@@ -748,6 +789,9 @@ footer {
   @media only screen and (orientation:portrait){
     .box-passport .b-passport {
       padding-bottom: 120px;
+    }
+    .--map .box-popup {
+      display: block;
     }
   }
   /* แนวนอน */
