@@ -43,18 +43,21 @@
           </div>
           <div class="col-md">
             <ul class="--tab" data-aos="fade">
-              <li class="active"><a href="#">ทั้งหมด</a></li>
-              <li><a href="#">เขตพระนคร</a></li>
-              <li><a href="#">เขตป้อมปราบศรัตรูพ่าย</a></li>
-              <li><a href="#">เขตุปทุมวัน</a></li>
-              <li><a href="#">เขตสัมพันธวงศ์</a></li>
-              <li><a href="#">เขตวังทองหลาง</a></li>
-              <li><a href="#">เขตดินแดง</a></li>
-              <li><a href="#">เขตบางกอกน้อย</a></li>
-              <li><a href="#">เขตลาดกระบัง</a></li>
-              <li><a href="#">เขตจคุจักร</a></li>
-              <li><a href="#">เขตทุ่งครุ</a></li>
-              <li><a href="#">เขตตลองเตย</a></li>
+              <li class="active">
+                <a href="#">ทั้งหมด</a>
+              </li>
+              <li>
+                <a href="#">เจริญกรุง - ตลาดน้อย</a>
+              </li>
+              <li>
+                <a href="#">พระนคร</a>
+              </li>
+              <li>
+                <a href="#">ปากคลองตลาด</a>
+              </li>
+              <li>
+                <a href="#">เยาวราช</a>
+              </li>
             </ul>
           </div>
           <a href="map.php" class="link-map" data-aos="fade">
