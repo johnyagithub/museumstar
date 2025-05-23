@@ -43,21 +43,18 @@
           </div>
           <div class="col-md">
             <ul class="--tab" data-aos="fade">
-              <li class="active">
-                <a href="#">ทั้งหมด</a>
-              </li>
-              <li>
-                <a href="#">เจริญกรุง - ตลาดน้อย</a>
-              </li>
-              <li>
-                <a href="#">พระนคร</a>
-              </li>
-              <li>
-                <a href="#">ปากคลองตลาด</a>
-              </li>
-              <li>
-                <a href="#">เยาวราช</a>
-              </li>
+              <li class="active"><a href="#">ทั้งหมด</a></li>
+              <li><a href="#">เขตพระนคร</a></li>
+              <li><a href="#">เขตป้อมปราบศรัตรูพ่าย</a></li>
+              <li><a href="#">เขตุปทุมวัน</a></li>
+              <li><a href="#">เขตสัมพันธวงศ์</a></li>
+              <li><a href="#">เขตวังทองหลาง</a></li>
+              <li><a href="#">เขตดินแดง</a></li>
+              <li><a href="#">เขตบางกอกน้อย</a></li>
+              <li><a href="#">เขตลาดกระบัง</a></li>
+              <li><a href="#">เขตจคุจักร</a></li>
+              <li><a href="#">เขตทุ่งครุ</a></li>
+              <li><a href="#">เขตตลองเตย</a></li>
             </ul>
           </div>
           <a href="map.php" class="link-map" data-aos="fade">
@@ -72,8 +69,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image01.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image01.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -91,8 +88,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image02.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image02.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -110,8 +107,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image03.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image03.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -129,8 +126,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image04.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image04.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -148,8 +145,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image05.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image05.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -167,8 +164,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image06.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image06.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -186,8 +183,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image07.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image07.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -205,8 +202,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image08.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image08.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -224,8 +221,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image09.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image09.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -243,8 +240,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image10.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image10.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -262,8 +259,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image11.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image11.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -281,8 +278,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image12.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image12.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -300,8 +297,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image13.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image13.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -319,8 +316,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image14.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image14.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -338,8 +335,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image15.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image15.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -357,8 +354,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image16.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image16.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -376,8 +373,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image17.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image17.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -395,8 +392,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image18.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image18.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -414,8 +411,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image19.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image19.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
@@ -433,8 +430,8 @@
             <a href="detail.php" class="text-dark">
               <div class="card h-100">
                 <div class="card-img-top">
-                    <img src="./public/images/list/image20.jpg" alt="">
-                  </div>
+                  <img src="./public/images/list/image20.jpg" alt="">
+                </div>
                 <div class="card-body">
                   <div class="b--view">
                     <div class="--location">เจริญกรุง - ตลาดน้อย</div>
