@@ -5,13 +5,15 @@
         <div class="col-md-4 p-0">
           <img src="./public/images/img-passport.png" class="img-passport" alt="" data-aos="fade">
         </div>
-        <div class="col-md-8 px-lg-5 p-3 pr-md-5 text-center">
-          <h1 data-aos="fade-up">MUSEUM</h1>
+        <div class="col-md-8 px-0 text-center">
+          <img class="mx-auto d-block mt-5 mt-sm-0" data-aos="fade-up" src="./public/images/information/img.png" alt="">
+
+          <!-- <h1 data-aos="fade-up">MUSEUM</h1>
           <h3 data-aos="fade-up">PASSPORT</h3>
           <br>
           <p class="m-0" data-aos="fade-up">แคมเปญพิเศษ สำหรับนักท่องเที่ยวสายมิวเซียม สะสมตราประทับ MUSEUM PASSPORT ครบ 5 แห่ง</p>
           <p class="m-0" data-aos="fade-up">ลุ้นรับของที่ระลึก <span class="text-warning">จำนวน 200 รางวัล ตั้งแต่วันนี้ - 30 กันยายน 2568</span></p>
-          <br>
+          <br> -->
           <a href="#" class="btn btn-warning mt-4" download data-aos="fade-up"><img src="./public/images/icon-pdf.png" alt=""> <u>ดาวน์โหลด.. PASSPORT</u></a>
         </div>
       </div>
